@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Apollo Bunder
+  m_EditorClassIdentifier: 
+  id: 105
+  name: 'Apollo Bunder  '
+  hindi_name: "\u0905\u092A\u094B\u0932\u094B \u092C\u0902\u0926\u0930  "
+  description: Apollo Bunder, in 1905, with the location where the gateway stands
+    today.
+  hindi_description: "\u0905\u092A\u094B\u0932\u094B \u092C\u0902\u0926\u0930, 1905
+    \u092E\u0947\u0902, \u0909\u0938 \u0938\u094D\u0925\u093E\u0928 \u0915\u0947
+    \u0938\u093E\u0925 \u091C\u0939\u093E\u0902 \u0906\u091C \u0917\u0947\u091F\u0935\u0947
+    \u0916\u0921\u093C\u093E \u0939\u0948\u0964  "
+  image: {fileID: 21300000, guid: 4dde789f740f62f45875cc18f8138d44, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

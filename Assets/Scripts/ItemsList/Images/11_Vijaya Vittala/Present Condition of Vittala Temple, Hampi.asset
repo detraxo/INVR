@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Present Condition of Vittala Temple, Hampi
+  m_EditorClassIdentifier: 
+  id: 102
+  name: 'Present Condition of Vittala Temple, Hampi  '
+  hindi_name: "\u0935\u093F\u091F\u094D\u0920\u0932 \u092E\u0902\u0926\u093F\u0930,
+    \u0939\u092E\u094D\u092A\u093F\u0915 \u0915\u0940 \u0935\u0930\u094D\u0924\u092E\u093E\u0928
+    \u0938\u094D\u0925\u093F\u0924\u093F "
+  description: 'The Vittala Temple is in a partially ruined. The sanctum sanctorum
+    of the temple once contained an idol of Lord Vittala. However, now the sanctum
+    is devoid of any idol. The central western hall of the temple was ruined long
+    ago during the attack of the Mughals that led to the downfall of the Vijayanagara
+    Empire in 1565 A.D.  '
+  hindi_description: "\u0935\u093F\u091F\u094D\u0920\u0932 \u092E\u0902\u0926\u093F\u0930
+    \u0906\u0902\u0936\u093F\u0915 \u0930\u0942\u092A \u0938\u0947 \u0928\u0937\u094D\u091F
+    \u0939\u094B \u091A\u0941\u0915\u093E \u0939\u0948\u0964 \u092E\u0902\u0926\u093F\u0930
+    \u0915\u0947 \u0917\u0930\u094D\u092D\u0917\u0943\u0939 \u092E\u0947\u0902 \u0915\u092D\u0940
+    \u092D\u0917\u0935\u093E\u0928 \u0935\u093F\u091F\u094D\u0920\u0932 \u0915\u0940
+    \u092E\u0942\u0930\u094D\u0924\u093F \u0925\u0940\u0964 \u0939\u093E\u0932\u093E\u0901\u0915\u093F,
+    \u0905\u092C \u0917\u0930\u094D\u092D\u0917\u0943\u0939 \u0915\u093F\u0938\u0940
+    \u092D\u0940 \u092E\u0942\u0930\u094D\u0924\u093F \u0938\u0947 \u0930\u0939\u093F\u0924
+    \u0939\u0948\u0964 \u092E\u0902\u0926\u093F\u0930 \u0915\u093E \u092E\u0927\u094D\u092F
+    \u092A\u0936\u094D\u091A\u093F\u092E\u0940 \u0939\u0949\u0932 \u092C\u0939\u0941\u0924
+    \u092A\u0939\u0932\u0947 \u092E\u0941\u0917\u0932\u094B\u0902 \u0915\u0947 \u0939\u092E\u0932\u0947
+    \u0915\u0947 \u0926\u094C\u0930\u093E\u0928 \u092C\u0930\u094D\u092C\u093E\u0926
+    \u0939\u094B \u0917\u092F\u093E \u0925\u093E \u091C\u093F\u0938\u0915\u0947 \u0915\u093E\u0930\u0923
+    1565 \u0908. \u092E\u0947\u0902 \u0935\u093F\u091C\u092F\u0928\u0917\u0930 \u0938\u093E\u092E\u094D\u0930\u093E\u091C\u094D\u092F
+    \u0915\u093E \u092A\u0924\u0928 \u0939\u0941\u0906 \u0925\u093E\u0964 "
+  image: {fileID: 21300000, guid: 31b41eab416f6f64fbef06ec3c9c1879, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

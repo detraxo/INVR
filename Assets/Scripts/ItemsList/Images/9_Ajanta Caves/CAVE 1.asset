@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: CAVE 1
+  m_EditorClassIdentifier: 
+  id: 105
+  name: 'CAVE 1  '
+  hindi_name: "\u0917\u0941\u092B\u093E 1  "
+  description: 'Cave 1 is a magnificently painted Vihara (monastery), filled with
+    wall murals, sculptures, and ceiling paintings, that date back to the 5th century.
+    Originally, Cave 1 also had a porch which led to the main hall, however it has
+    since collapsed.  '
+  hindi_description: "\u0917\u0941\u092B\u093E 1 \u090F\u0915 \u092D\u0935\u094D\u092F
+    \u0930\u0942\u092A \u0938\u0947 \u091A\u093F\u0924\u094D\u0930\u093F\u0924 \u0935\u093F\u0939\u093E\u0930
+    (\u092E\u0920) \u0939\u0948, \u091C\u094B \u0926\u0940\u0935\u093E\u0930 \u092D\u093F\u0924\u094D\u0924\u093F
+    \u091A\u093F\u0924\u094D\u0930\u094B\u0902, \u092E\u0942\u0930\u094D\u0924\u093F\u092F\u094B\u0902
+    \u0914\u0930 \u091B\u0924 \u0915\u0947 \u091A\u093F\u0924\u094D\u0930\u094B\u0902
+    \u0938\u0947 \u092D\u0930\u093E \u0939\u0941\u0906 \u0939\u0948, \u091C\u094B
+    \u0915\u093F 5 \u0935\u0940\u0902 \u0936\u0924\u093E\u092C\u094D\u0926\u0940
+    \u0915\u093E \u0939\u0948\u0964 \u092E\u0942\u0932 \u0930\u0942\u092A \u0938\u0947,
+    \u0917\u0941\u092B\u093E 1 \u092E\u0947\u0902 \u090F\u0915 \u092A\u094B\u0930\u094D\u091A
+    \u092D\u0940 \u0925\u093E \u091C\u094B \u092E\u0941\u0916\u094D\u092F \u0939\u0949\u0932
+    \u0915\u0940 \u0913\u0930 "
+  image: {fileID: 21300000, guid: 46328868eb19a654e9e08827d2894292, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

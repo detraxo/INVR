@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Baradari pavilion at Man Singh I Palace Square.
+  m_EditorClassIdentifier: 
+  id: 103
+  name: Baradari pavilion at Man Singh I Palace Square.
+  hindi_name: "\u092E\u093E\u0928 \u0938\u093F\u0902\u0939 \u092A\u094D\u0930\u0925\u092E
+    \u092A\u0948\u0932\u0947\u0938 \u0938\u094D\u0915\u094D\u0935\u093E\u092F\u0930
+    \u092E\u0947\u0902 \u092C\u093E\u0930\u093E\u0926\u0930\u0940 \u092E\u0902\u0921\u092A\u0964  "
+  description: 'South of this courtyard lies the Palace of Man Singh I, which is
+    the oldest part of the palace fort.  '
+  hindi_description: "\u0907\u0938 \u092A\u094D\u0930\u093E\u0902\u0917\u0923 \u0915\u0947
+    \u0926\u0915\u094D\u0937\u093F\u0923 \u092E\u0947\u0902 \u092E\u093E\u0928 \u0938\u093F\u0902\u0939
+    \u092A\u094D\u0930\u0925\u092E \u0915\u093E \u092E\u0939\u0932 \u0939\u0948,
+    \u091C\u094B \u092E\u0939\u0932 \u0915\u0947 \u0915\u093F\u0932\u0947 \u0915\u093E
+    \u0938\u092C\u0938\u0947 \u092A\u0941\u0930\u093E\u0928\u093E \u0939\u093F\u0938\u094D\u0938\u093E
+    \u0939\u0948\u0964 "
+  image: {fileID: 21300000, guid: 113fa1a9948b4754a844eca5ff752262, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

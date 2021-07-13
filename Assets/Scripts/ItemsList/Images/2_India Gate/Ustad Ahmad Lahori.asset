@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Ustad Ahmad Lahori
+  m_EditorClassIdentifier: 
+  id: 102
+  name: 'On republic day  '
+  hindi_name: "\u0917\u0923\u0924\u0902\u0924\u094D\u0930 \u0926\u093F\u0935\u0938
+    \u092A\u0930  "
+  description: 'The event begins with the Prime Minister of India laying a wreath
+    at the Amar Jawan Jyoti at India Gate, commemorating all the soldiers who sacrificed
+    their lives for the country.  '
+  hindi_description: "\u092F\u0939 \u0915\u093E\u0930\u094D\u092F\u0915\u094D\u0930\u092E
+    \u092D\u093E\u0930\u0924 \u0915\u0947 \u092A\u094D\u0930\u0927\u093E\u0928 \u092E\u0902\u0924\u094D\u0930\u0940
+    \u0926\u094D\u0935\u093E\u0930\u093E \u0907\u0902\u0921\u093F\u092F\u093E \u0917\u0947\u091F
+    \u092A\u0930 \u0905\u092E\u0930 \u091C\u0935\u093E\u0928 \u091C\u094D\u092F\u094B\u0924\u093F
+    \u092A\u0930 \u092E\u093E\u0932\u094D\u092F\u093E\u0930\u094D\u092A\u0923 \u0915\u0930\u0928\u0947
+    \u0915\u0947 \u0938\u093E\u0925 \u0936\u0941\u0930\u0942 \u0939\u094B\u0924\u093E
+    \u0939\u0948, \u091C\u094B \u0909\u0928 \u0938\u092D\u0940 \u0938\u0948\u0928\u093F\u0915\u094B\u0902
+    \u0915\u094B \u092F\u093E\u0926 \u0915\u0930\u0924\u093E \u0939\u0948 \u091C\u093F\u0928\u094D\u0939\u094B\u0902\u0928\u0947
+    \u0926\u0947\u0936 \u0915\u0947 \u0932\u093F\u090F \u0905\u092A\u0928\u093E \u092C\u0932\u093F\u0926\u093E\u0928
+    \u0926\u093F\u092F\u093E\u0964  "
+  image: {fileID: 21300000, guid: 32590bf35a5d68c4e88f6857441aeab2, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

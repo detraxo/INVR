@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Ceiling painting
+  m_EditorClassIdentifier: 
+  id: 100
+  name: 'Ceiling painting '
+  hindi_name: "\u091B\u0924 \u092A\u0947\u0902\u091F\u093F\u0902\u0917 "
+  description: ' you look up from the beautiful wall paintings you see the geometric
+    designs and motifs that adorn the ceiling. There are also images of peacocks,
+    subtly decorated in blue paint made from lapis lazuli. there is a creature with
+    a bull''s head whose body transforms into swirling curvaceous lines that blend
+    into the floral decoration of the next panel. '
+  hindi_description: "\u092F\u0926\u093F \u0906\u092A \u0938\u0941\u0902\u0926\u0930
+    \u0926\u0940\u0935\u093E\u0930 \u091A\u093F\u0924\u094D\u0930\u094B\u0902 \u0915\u094B
+    \u0926\u0947\u0916\u0924\u0947 \u0939\u0948\u0902 \u0924\u094B \u0906\u092A \u091B\u0924
+    \u0915\u094B \u0938\u0941\u0936\u094B\u092D\u093F\u0924 \u0915\u0930\u0928\u0947
+    \u0935\u093E\u0932\u0947 \u091C\u094D\u092F\u093E\u092E\u093F\u0924\u0940\u092F
+    \u0921\u093F\u091C\u093E\u0907\u0928 \u0914\u0930 \u0930\u0942\u092A\u093E\u0902\u0915\u0928\u094B\u0902
+    \u0915\u094B \u0926\u0947\u0916\u0924\u0947 \u0939\u0948\u0902\u0964 \u0932\u0948\u092A\u093F\u0938
+    \u0932\u091C\u0941\u0932\u0940 \u0938\u0947 \u092C\u0928\u0947 \u0928\u0940\u0932\u0947
+    \u0930\u0902\u0917 \u092E\u0947\u0902 \u0938\u0942\u0915\u094D\u0937\u094D\u092E
+    \u0930\u0942\u092A \u0938\u0947 \u0938\u091C\u093E\u090F \u0917\u090F \u092E\u094B\u0930
+    \u0915\u0940 \u091B\u0935\u093F\u092F\u093E\u0902 \u092D\u0940 \u0939\u0948\u0902\u0964
+    \u090F\u0915 \u092C\u0948\u0932 \u0915\u0947 \u0938\u093F\u0930 \u0935\u093E\u0932\u093E
+    \u090F\u0915 \u092A\u094D\u0930\u093E\u0923\u0940 \u0939\u0948 \u091C\u093F\u0938\u0915\u093E
+    \u0936\u0930\u0940\u0930 \u0918\u0941\u092E\u093E\u0935\u0926\u093E\u0930 \u0918\u0941\u092E\u093E\u0935\u0926\u093E\u0930
+    \u0930\u0947\u0916\u093E\u0913\u0902 \u092E\u0947\u0902 \u092C\u0926\u0932 \u091C\u093E\u0924\u093E
+    \u0939\u0948 \u091C\u094B \u0905\u0917\u0932\u0947 \u092A\u0948\u0928\u0932 \u0915\u0940
+    \u092A\u0941\u0937\u094D\u092A \u0938\u091C\u093E\u0935\u091F \u092E\u0947\u0902
+    \u092E\u093F\u0936\u094D\u0930\u093F\u0924 \u0939\u094B\u0924\u0947 \u0939\u0948\u0902\u0964 "
+  image: {fileID: 21300000, guid: 081a9eb95f1ba2c4196ee17877438d36, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

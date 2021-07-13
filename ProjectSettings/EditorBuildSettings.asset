@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2D menu.unity
+    guid: a09bd0aa19557b340a96c44f3368804a
+  - enabled: 1
+    path: Assets/Scenes/Museum 1.unity
+    guid: 32ae1eb557009b04eb40349c8eb99893
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 1e1c45816b944be459528f97810653a7
+  - enabled: 1
+    path: Assets/Scenes/Detailed.unity
+    guid: 8e8b5d747822cbd46a650db5ed4e6c53
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 89f2cb42c8ea03645a3315c0e1250099
+  - enabled: 0
+    path: Assets/Imported/SpeechAndText/Sample/SampleSpeechToText.unity
+    guid: d9447599b4cad0245ac00fa552c354b6
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 756da831650fe014bb4d58335dc22798,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 5036680ebf0d55642b01e40b6a187bd5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5abb52510ee941e4f8a37f883501f3f0,
+      type: 2}

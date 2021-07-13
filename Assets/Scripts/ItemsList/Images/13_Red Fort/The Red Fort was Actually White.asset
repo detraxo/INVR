@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: The Red Fort was Actually White
+  m_EditorClassIdentifier: 
+  id: 104
+  name: 'The Red Fort was Actually White  '
+  hindi_name: "\u0932\u093E\u0932 \u0915\u093F\u0932\u093E \u0935\u093E\u0938\u094D\u0924\u0935
+    \u092E\u0947\u0902 \u0938\u092B\u0947\u0926 \u0925\u093E "
+  description: "When the fort was built by the Mughal Emperor Shah Jahan in 1648,
+    it was white in colour \u2013 built with sandstones. Not only did the name, but
+    the colour of the fort was also changed to red. All of it took place at the behest
+    of the British. The Red Fort was originally made of lime stones. It was when
+    the white stone began chipping off, the British had to paint it red.  "
+  hindi_description: "\u091C\u092C \u0915\u093F\u0932\u093E 1648 \u092E\u0947\u0902
+    \u092E\u0941\u0917\u0932 \u0938\u092E\u094D\u0930\u093E\u091F \u0936\u093E\u0939\u091C\u0939\u093E\u0901
+    \u0926\u094D\u0935\u093E\u0930\u093E \u092C\u0928\u093E\u092F\u093E \u0917\u092F\u093E
+    \u0925\u093E, \u092F\u0939 \u0938\u092B\u0947\u0926 \u0930\u0902\u0917 \u0915\u093E
+    \u0925\u093E - \u092C\u0932\u0941\u0906 \u092A\u0924\u094D\u0925\u0930\u094B\u0902
+    \u0938\u0947 \u092C\u0928\u093E\u092F\u093E \u0917\u092F\u093E \u0925\u093E\u0964
+    \u0938\u093F\u0930\u094D\u092B \u0928\u093E\u092E \u0939\u0940 \u0928\u0939\u0940\u0902
+    \u092C\u0932\u094D\u0915\u093F \u0915\u093F\u0932\u0947 \u0915\u093E \u0930\u0902\u0917
+    \u092D\u0940 \u092C\u0926\u0932\u0915\u0930 \u0932\u093E\u0932 \u0915\u0930 \u0926\u093F\u092F\u093E
+    \u0917\u092F\u093E\u0964 \u092F\u0939 \u0938\u092C \u0905\u0902\u0917\u094D\u0930\u0947\u091C\u094B\u0902
+    \u0915\u0947 \u0907\u0936\u093E\u0930\u0947 \u092A\u0930 \u0939\u0941\u0906\u0964
+    \u0932\u093E\u0932 \u0915\u093F\u0932\u093E \u092E\u0942\u0932 \u0930\u0942\u092A
+    \u0938\u0947 \u091A\u0942\u0928\u0947 \u0915\u0947 \u092A\u0924\u094D\u0925\u0930\u094B\u0902
+    \u0938\u0947 \u092C\u0928\u093E \u0925\u093E\u0964 \u091C\u092C \u0938\u092B\u0947\u0926
+    \u092A\u0924\u094D\u0925\u0930 \u091B\u093F\u0932\u0928\u0947 \u0932\u0917\u093E,
+    \u0924\u094B \u0905\u0902\u0917\u094D\u0930\u0947\u091C\u094B\u0902 \u0915\u094B
+    \u0907\u0938\u0947 \u0932\u093E\u0932 \u0930\u0902\u0917 \u0938\u0947 \u0930\u0902\u0917\u0928\u093E
+    \u092A\u0921\u093C\u093E\u0964 "
+  image: {fileID: 21300000, guid: 813890f973084bb48b28f7b7814a2370, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

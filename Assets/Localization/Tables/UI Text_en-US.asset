@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 8062efb2f7bb35949895c7b75e868d44, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7858405376
+    m_Localized: Museum Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47622054592512
+    m_Localized: Map Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48543014699008
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58482424659968
+    m_Localized: Choose Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277080506220544
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281144283480064
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 283806198513664
+    m_Localized: Back Button is present at the bottom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388741946785792
+    m_Localized: Built year
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389362871549952
+    m_Localized: 'Architect
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389553662050304
+    m_Localized: Architectural Style
+    m_Metadata:
+      m_Items: []
+  - m_Id: 822311387512832
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830319026880512
+    m_Localized: Choose Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 826289382866944
+    m_Localized: Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 839704214093824
+    m_Localized: "Choose Quality\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843442383339520
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843600588292096
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843978948067328
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2351036700672000
+    m_Localized: Chat bot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2570982512771072
+    m_Localized: "Choose \tMode"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571147520884736
+    m_Localized: VR Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572272777150464
+    m_Localized: Normal Mode
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

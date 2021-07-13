@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: Ganapathy Deva
+  m_EditorClassIdentifier: 
+  id: 104
+  name: 'Ganapathy Deva  '
+  hindi_name: "\u0917\u0923\u092A\u0924\u093F \u0926\u0947\u0935  "
+  description: ' The four identical gates in the Warangal Fort, which was part of
+    the great Swayambhu Shiva temple of Shiva in the fort built by Ganapati Deva
+    during the 12th century.  '
+  hindi_description: "\u0935\u093E\u0930\u0902\u0917\u0932 \u0915\u093F\u0932\u0947
+    \u092E\u0947\u0902 \u091A\u093E\u0930 \u0938\u092E\u093E\u0928 \u0926\u094D\u0935\u093E\u0930,
+    \u091C\u094B \u0967\u0968\u0935\u0940\u0902 \u0936\u0924\u093E\u092C\u094D\u0926\u0940
+    \u0915\u0947 \u0926\u094C\u0930\u093E\u0928 \u0917\u0923\u092A\u0924\u093F \u0926\u0947\u0935
+    \u0926\u094D\u0935\u093E\u0930\u093E \u0928\u093F\u0930\u094D\u092E\u093F\u0924
+    \u0915\u093F\u0932\u0947 \u092E\u0947\u0902 \u0936\u093F\u0935 \u0915\u0947 \u092E\u0939\u093E\u0928
+    \u0938\u094D\u0935\u092F\u0902\u092D\u0942 \u0936\u093F\u0935 \u092E\u0902\u0926\u093F\u0930
+    \u0915\u093E \u0939\u093F\u0938\u094D\u0938\u093E \u0925\u0947\u0964  "
+  image: {fileID: 21300000, guid: c4e0ae775dcf17c4b9d5a8e5fbe2641a, type: 3}
+  imageSize: 0.37
+  year: 
+  style: 
+  hindi_style: 
+  architect: 
+  hindi_architect: 
+  videoLink: 
+  mapLink: 

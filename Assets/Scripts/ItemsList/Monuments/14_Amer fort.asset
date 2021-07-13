@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: 14_Amer fort
+  m_EditorClassIdentifier: 
+  id: 14
+  name: 'Amer fort  '
+  hindi_name: "\u0906\u092E\u0947\u0930  \u0915\u093F\u0932\u093E  "
+  description: 'Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India.
+    Amer is a town with an area of 4 square kilometres (1.5 sq mi) located 11 kilometres
+    (6.8 mi) from Jaipur, the capital of Rajasthan. The town of Amer and the Amber
+    Fort were originally built by Raja Man Singh and additions were, later, made
+    by Sawai Jai Singh. Located high on a hill, it is the principal tourist attraction
+    in Jaipur. Amer Fort is known for its artistic style elements. With its large
+    ramparts and series of gates and cobbled paths, the fort overlooks Maota Lake,
+    which is the main source of water for the Amer Palace.  '
+  hindi_description: "\u0906\u092E\u0947\u0930 \u0915\u093F\u0932\u093E \u092F\u093E
+    \u090F\u092E\u094D\u092C\u0930 \u0915\u093F\u0932\u093E \u0906\u092E\u0947\u0930,
+    \u0930\u093E\u091C\u0938\u094D\u0925\u093E\u0928, \u092D\u093E\u0930\u0924 \u092E\u0947\u0902
+    \u0938\u094D\u0925\u093F\u0924 \u090F\u0915 \u0915\u093F\u0932\u093E \u0939\u0948\u0964
+    \u0906\u092E\u0947\u0930  \u0930\u093E\u091C\u0938\u094D\u0925\u093E\u0928 \u0915\u0940
+    \u0930\u093E\u091C\u0927\u093E\u0928\u0940 \u091C\u092F\u092A\u0941\u0930 \u0938\u0947
+    11 \u0915\u093F\u0932\u094B\u092E\u0940\u091F\u0930 (6.8 \u092E\u0940\u0932)
+    \u0915\u0940 \u0926\u0942\u0930\u0940 \u092A\u0930 \u0938\u094D\u0925\u093F\u0924
+    4 \u0935\u0930\u094D\u0917 \u0915\u093F\u0932\u094B\u092E\u0940\u091F\u0930 (1.5
+    \u0935\u0930\u094D\u0917 \u092E\u0940\u0932) \u0915\u0947 \u0915\u094D\u0937\u0947\u0924\u094D\u0930\u092B\u0932
+    \u0935\u093E\u0932\u093E \u090F\u0915 \u0936\u0939\u0930 \u0939\u0948\u0964 \u0906\u092E\u0947\u0930
+    \u0936\u0939\u0930 \u0914\u0930 \u0905\u0902\u092C\u0930 \u0915\u093F\u0932\u093E
+    \u092E\u0942\u0932 \u0930\u0942\u092A \u0938\u0947 \u0930\u093E\u091C\u093E \u092E\u093E\u0928
+    \u0938\u093F\u0902\u0939 \u0926\u094D\u0935\u093E\u0930\u093E \u092C\u0928\u093E\u092F\u093E
+    \u0917\u092F\u093E \u0925\u093E \u0914\u0930 \u092C\u093E\u0926 \u092E\u0947\u0902,
+    \u0938\u0935\u093E\u0908 \u091C\u092F \u0938\u093F\u0902\u0939 \u0926\u094D\u0935\u093E\u0930\u093E
+    \u0905\u0924\u093F\u0930\u093F\u0915\u094D\u0924 \u0915\u093F\u090F \u0917\u090F
+    \u0925\u0947\u0964 \u090F\u0915 \u092A\u0939\u093E\u0921\u093C\u0940 \u092A\u0930
+    \u0938\u094D\u0925\u093F\u0924, \u092F\u0939 \u091C\u092F\u092A\u0941\u0930 \u0915\u093E
+    \u092A\u094D\u0930\u092E\u0941\u0916 \u092A\u0930\u094D\u092F\u091F\u0915 \u0906\u0915\u0930\u094D\u0937\u0923
+    \u0939\u0948\u0964 \u0906\u092E\u0947\u0930 \u0915\u093E \u0915\u093F\u0932\u093E
+    \u0905\u092A\u0928\u0940 \u0915\u0932\u093E\u0924\u094D\u092E\u0915 \u0936\u0948\u0932\u0940
+    \u0915\u0947 \u0924\u0924\u094D\u0935\u094B\u0902 \u0915\u0947 \u0932\u093F\u090F
+    \u091C\u093E\u0928\u093E \u091C\u093E\u0924\u093E \u0939\u0948\u0964 \u0905\u092A\u0928\u0947
+    \u092C\u0921\u093C\u0947 \u092A\u094D\u0930\u093E\u091A\u0940\u0930 \u0914\u0930
+    \u092B\u093E\u091F\u0915\u094B\u0902 \u0914\u0930 \u092A\u0924\u094D\u0925\u0930\u094B\u0902
+    \u0938\u0947 \u092C\u0928\u0947 \u0930\u093E\u0938\u094D\u0924\u094B\u0902 \u0915\u0940
+    \u0936\u094D\u0930\u0943\u0902\u0916\u0932\u093E \u0915\u0947 \u0938\u093E\u0925,
+    \u0915\u093F\u0932\u0947 \u0938\u0947 \u092E\u093E\u0913\u0924\u093E \u091D\u0940\u0932
+    \u0926\u093F\u0916\u093E\u0908 \u0926\u0947\u0924\u0940 \u0939\u0948, \u091C\u094B
+    \u0906\u092E\u0947\u0930 \u092A\u0948\u0932\u0947\u0938 \u0915\u0947 \u0932\u093F\u090F
+    \u092A\u093E\u0928\u0940 \u0915\u093E \u092E\u0941\u0916\u094D\u092F \u0938\u094D\u0930\u094B\u0924
+    \u0939\u0948\u0964  "
+  image: {fileID: 21300000, guid: 22dc53b8161cb7747996cd17f23a753a, type: 3}
+  imageSize: 0.32
+  year: "1589\u20131614"
+  style: 'Mughal architecture  '
+  hindi_style: "\u092E\u0941\u0917\u0932 \u0935\u093E\u0938\u094D\u0924\u0941\u0915\u0932\u093E  "
+  architect: 'Raja Man Singh and Sawai Jai Singh  '
+  hindi_architect: "\u0930\u093E\u091C\u093E \u092E\u093E\u0928 \u0938\u093F\u0902\u0939
+    \u0914\u0930 \u0938\u0935\u093E\u0908 \u091C\u092F \u0938\u093F\u0902\u0939  "
+  videoLink: https://www.youtube.com/watch?v=uVEQFCLOIgI&ab_channel=TravrseMedia
+  mapLink: https://www.google.com/maps/dir//Amer+Fort,+Devisinghpura,+Amer,+Jaipur,+Rajasthan/@26.9855587,75.8163258,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x396db05acbd20dfb:0x6221df6747147e2b!2m2!1d75.8513454!2d26.9854865!3e3

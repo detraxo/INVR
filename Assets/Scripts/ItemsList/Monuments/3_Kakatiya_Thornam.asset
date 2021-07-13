@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d16feaa8710b394da4cb1bd3e5a9a35, type: 3}
+  m_Name: 3_Kakatiya_Thornam
+  m_EditorClassIdentifier: 
+  id: 3
+  name: Kakatiya thoranam
+  hindi_name: "\u0915\u093E\u0915\u0924\u093F\u092F\u093E \u0925\u094B\u0930\u0928\u093E\u092E"
+  description: Kakatiya Kala Thoranam (also called Warangal Gate) is a historical
+    arch in the Warangal district, of the Indian state of Telangana. The Warangal
+    Fort has four ornamental gates which originally formed the gates to the destroyed
+    great Shiva temple which are known as Kakatiya Kala Thoranam or Warangal Gates.
+    It was a part of the great Swayambhusiva temple of Shiva in the fort
+  hindi_description: " \u0915\u093E\u0915\u0924\u0940\u092F \u0915\u0932\u093E \u0925\u094B\u0930\u093E\u0928\u092E
+    (\u091C\u093F\u0938\u0947 \u0935\u093E\u0930\u0902\u0917\u0932 \u0917\u0947\u091F
+    \u092D\u0940 \u0915\u0939\u093E \u091C\u093E\u0924\u093E \u0939\u0948) \u092D\u093E\u0930\u0924\u0940\u092F
+    \u0930\u093E\u091C\u094D\u092F \u0924\u0947\u0932\u0902\u0917\u093E\u0928\u093E
+    \u0915\u0947 \u0935\u093E\u0930\u0902\u0917\u0932 \u091C\u093F\u0932\u0947 \u092E\u0947\u0902
+    \u090F\u0915 \u0910\u0924\u093F\u0939\u093E\u0938\u093F\u0915 \u092E\u0947\u0939\u0930\u093E\u092C
+    \u0939\u0948\u0964 \u0935\u093E\u0930\u0902\u0917\u0932 \u0915\u093F\u0932\u0947
+    \u092E\u0947\u0902 \u091A\u093E\u0930 \u0938\u091C\u093E\u0935\u091F\u0940 \u0926\u094D\u0935\u093E\u0930
+    \u0939\u0948\u0902 \u091C\u094B \u092E\u0942\u0932 \u0930\u0942\u092A \u0938\u0947
+    \u0928\u0937\u094D\u091F \u0939\u0941\u090F \u092E\u0939\u093E\u0928 \u0936\u093F\u0935
+    \u092E\u0902\u0926\u093F\u0930 \u0915\u0947 \u0926\u094D\u0935\u093E\u0930 \u092C\u0928\u093E\u0924\u0947
+    \u0939\u0948\u0902 \u091C\u093F\u0928\u094D\u0939\u0947\u0902 \u0915\u093E\u0915\u0924\u0940\u092F
+    \u0915\u0932\u093E \u0925\u094B\u0930\u093E\u0928\u092E \u092F\u093E \u0935\u093E\u0930\u0902\u0917\u0932
+    \u0926\u094D\u0935\u093E\u0930 \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902
+    \u091C\u093E\u0928\u093E \u091C\u093E\u0924\u093E \u0939\u0948\u0964 \u092F\u0939
+    \u0915\u093F\u0932\u0947 \u092E\u0947\u0902 \u0936\u093F\u0935 \u0915\u0947 \u092E\u0939\u093E\u0928
+    \u0938\u094D\u0935\u092F\u0902\u092D\u0942 \u0936\u093F\u0935 \u092E\u0902\u0926\u093F\u0930
+    \u0915\u093E \u090F\u0915 \u0939\u093F\u0938\u094D\u0938\u093E \u0925\u093E"
+  image: {fileID: 21300000, guid: 70d159154d0587943b74406af6a73d58, type: 3}
+  imageSize: 0.3
+  year: During 12th century.
+  style: Ornamented stone sculpture
+  hindi_style: " \u0905\u0932\u0902\u0915\u0943\u0924 \u092A\u0924\u094D\u0925\u0930
+    \u0915\u0940 \u092E\u0942\u0930\u094D\u0924\u093F"
+  architect: 'Ganapati Deva (1199-1262) '
+  hindi_architect: "\u0917\u0923\u092A\u0924\u093F \u0926\u0947\u0935 "
+  videoLink: 
+  mapLink: https://www.google.com/maps/dir//India+Gate,+India+Gate,+Rajpath,+India+Gate,+New+Delhi,+Delhi/@28.6129829,77.1944901,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x390ce2daa9eb4d0b:0x717971125923e5d!2m2!1d77.2295097!2d28.612912!3e3
